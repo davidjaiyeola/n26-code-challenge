@@ -1,0 +1,4 @@
+server:
+  port: 9001
+n26:
+  statistics-interval: 60
